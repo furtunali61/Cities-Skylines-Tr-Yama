@@ -5,6 +5,7 @@ Son çıkan dlc'lerin bazıları hiç çevrilememiştir sadece oyun içinde o k�
 
 Eğer talep gelirse yamayı devam ettireceğim.
 
+
 Kurulum:
 
 1 - İndirmiş olduğunuz tr.locale dosyasını 
@@ -15,7 +16,9 @@ Kurulum:
 
 4 - Kurulum başarılı, eğer oyuna girdiğinizde oyun türkçe olmamışsa ayarlar kısmından dil seçeneğinden türkçe dili seçiniz
 
+
 Destek olmak isterseniz;
+
 
 Mustafa Uğur Öner
 
@@ -28,6 +31,7 @@ Finansbank : TR58 0011 1000 0000 0106 9724 22
 Garanti    : TR15 0006 2001 0530 0006 6475 43
 
 Papara     : 8098343776
+
 
 sorunlar için;
 
