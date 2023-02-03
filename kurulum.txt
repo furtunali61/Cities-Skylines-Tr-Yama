@@ -5,9 +5,9 @@ Eğer talep gelirse yamayı devam ettireceğim.
 
 Kurulum:
 
-1 - İndirmiş olduğunuz tr.locale dosyasını, Cities - Skylines\Files\Locale Yoluna yapıştırınız
+1 - İndirmiş olduğunuz Files klasörünü Cities - Skylines'ın kurulu olduğu konumuna yapıştırınız
 
-2 - Oyunuzun kurulu olduğu yerdeki Files klasörünün içindeki Locale klasörünün içine yani
+2 - Onay kutusu gelirse onaylayınız
 
 3 - Kurulum başarılı, eğer oyuna girdiğinizde oyun türkçe olmamışsa ayarlar kısmından dil seçeneğinden türkçe dili seçiniz
 
